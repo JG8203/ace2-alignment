@@ -1,0 +1,22 @@
+[project]
+name = "ace2-alignment"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "JG8203",email = "joshua_gilo@dlsu.edu.ph"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy (>=2.3.1,<3.0.0)",
+    "pandas (>=2.3.0,<3.0.0)",
+    "scikit-bio (>=0.6.3,<0.7.0)",
+    "biopython (>=1.85,<2.0)",
+    "jupyterlab (>=4.4.4,<5.0.0)",
+    "jupyterlab-git (>=0.51.2,<0.52.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
