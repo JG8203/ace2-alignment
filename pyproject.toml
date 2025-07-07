@@ -13,7 +13,8 @@ dependencies = [
     "scikit-bio (>=0.6.3,<0.7.0)",
     "biopython (>=1.85,<2.0)",
     "jupyterlab (>=4.4.4,<5.0.0)",
-    "jupyterlab-git (>=0.51.2,<0.52.0)"
+    "jupyterlab-git (>=0.51.2,<0.52.0)",
+    "matplotlib (>=3.10.3,<4.0.0)"
 ]
 
 
