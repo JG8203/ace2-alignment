@@ -14,7 +14,8 @@ dependencies = [
     "biopython (>=1.85,<2.0)",
     "jupyterlab (>=4.4.4,<5.0.0)",
     "jupyterlab-git (>=0.51.2,<0.52.0)",
-    "matplotlib (>=3.10.3,<4.0.0)"
+    "matplotlib (>=3.10.3,<4.0.0)",
+    "seaborn (>=0.13.2,<0.14.0)"
 ]
 
 
